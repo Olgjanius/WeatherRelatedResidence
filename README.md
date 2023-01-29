@@ -1,7 +1,7 @@
 # WeatherRelatedResidence
 
 a little program for the calculate of weather related place of residence
-in order of IU International University GmbH
+
 
 Requirements:
 python 3.11
